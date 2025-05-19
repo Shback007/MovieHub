@@ -86,7 +86,7 @@ function displayMovieDetails(details){
                 <li class="released">Released: ${details.Released}</li>
             </ul>
             <p class="genre"><b>Genre:</b> ${details.Genre}</p>
-            <p class="writer"><b>writer:</b> ${details.Writer}</p>
+            <p class="writer"><b>Writer:</b> ${details.Writer}</p>
             <p class="actors"><b>Actors:</b> ${details.Actors}</p>
             <p class="plot"><b>Plot:</b> ${details.Plot}</p>
             <p class="language"><b>Language:</b> ${details.Language}</p>
